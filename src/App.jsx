@@ -11,7 +11,7 @@ function App() {
 
   useEffect(() => {
     fetch(
-      `https://api.openweathermap.org/data/2.5/weather?q=${cityName}&appid=33ab7a6a924a45c4c1dfbc566400cc78&units=imperial`
+      `https://api.openweathermap.org/data/2.5/weather?q=${cityName}&appid=APIKEY&units=imperial`
     )
       .then((res) => {
         if (res.status === 200) {
