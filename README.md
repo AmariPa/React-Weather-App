@@ -1,5 +1,5 @@
 # React Weather App
 
-This is a searchable weather application built using React.js and Openweather API.
+This is a searchable weather application built using React.js, Material Ui, and the Openweather API.
 
-![weather](https://github.com/editormilku/React-Weather-App/assets/118210737/d4e1dcb3-5b2d-4d38-afca-b5616716483d)
+![weather-pic](https://github.com/editormilku/React-Weather-App/assets/118210737/5a9560da-28d0-47f3-b338-f1ab5063b0d4)
